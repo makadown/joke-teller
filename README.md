@@ -17,3 +17,13 @@ Voice RSS (requiere registro)
 ```
 http://www.voicerss.org/
 ```
+
+Joke API
+```
+https://sv443.net/jokeapi/v2/
+```
+
+Mozilla Doc (Fetch)
+```
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+```
