@@ -5,6 +5,9 @@
 
 Published here: https://makadown.github.io/joke-teller/index.html
 
+## Flowchart
+
+![alt text](Joke+Teller+Flowchart.png "Title")
 
 ## Resources
 
