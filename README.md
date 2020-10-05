@@ -30,3 +30,8 @@ Mozilla Doc (Fetch)
 ```
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 ```
+
+W3 Schools (HTML Audio y Video)
+```
+https://www.w3schools.com/tags/ref_av_dom.asp
+```
